@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\Example\example012\bin\Debug\net6.0\example012.exe
+C:\Users\ПК\Desktop\Example\example012\bin\Debug\net6.0\example012.deps.json
+C:\Users\ПК\Desktop\Example\example012\bin\Debug\net6.0\example012.runtimeconfig.json
+C:\Users\ПК\Desktop\Example\example012\bin\Debug\net6.0\example012.dll
+C:\Users\ПК\Desktop\Example\example012\bin\Debug\net6.0\example012.pdb
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.dll
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\refint\example012.dll
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.pdb
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\example012.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Example\example012\obj\Debug\net6.0\ref\example012.dll
